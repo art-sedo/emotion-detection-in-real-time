@@ -1,6 +1,6 @@
 opencv-python==4.1.2
 numpy==1.16.5
--e git+git://github.com/ipazc/mtcnn.git
+-e git+git://github.com/ipazc/mtcnn.git#mtcnn.git
 pandas==0.25.1
 tensorflow==2.0.0
 keras==2.3.1
